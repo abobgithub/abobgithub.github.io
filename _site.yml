@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Andreas Bagger"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Andreas Bagger"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -22,5 +22,5 @@ navbar:
       href: https://github.com/abobgithub       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: AnnArbor
     highlight: textmate
